@@ -83,6 +83,15 @@ Welcome to the comprehensive Snowflake learning repository! This guide is design
    - User and role management
    - Monitoring and usage
 
+### 14. [Interview Questions and Answers](14-interview-questions.md)
+   - Architecture questions
+   - Data loading questions
+   - Security questions
+   - Performance optimization questions
+   - SQL and querying questions
+   - Advanced features questions
+   - Scenario-based questions
+
 ## 🎯 How to Use This Guide
 
 1. **Start with Basics**: Begin with Introduction and Architecture
@@ -124,6 +133,14 @@ Welcome to the comprehensive Snowflake learning repository! This guide is design
 - Clustering
 - Query optimization
 - Caching
+
+## 💼 Interview Preparation
+
+See [Interview Questions and Answers](14-interview-questions.md) for:
+- 30+ commonly asked interview questions
+- Detailed answers with examples
+- Scenario-based questions
+- Best practices for interviews
 
 ## 📊 Certification Paths
 
